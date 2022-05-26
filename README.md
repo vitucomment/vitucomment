@@ -19,8 +19,8 @@ to## Hi there, i'm Victor Almeida - 👋
 
 <div>
   <a href="https://github.com/vitucomment">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitucomment&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitucomment&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vitucomment&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitucomment&layout=compact&langs_count=6&theme=blueberry"/>
 </div>
   
 
