@@ -1,4 +1,4 @@
-to## Hi there, i'm Victor Almeida - 👋
+## Hi there, i'm Victor Almeida - 👋
 ### Type: npx iamvitu
 
 <div> 
