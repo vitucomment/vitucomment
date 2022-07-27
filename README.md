@@ -9,12 +9,13 @@
 </div>
 
 
-### ♦ Backend student with knowledge of python focused on data analysis ❗
 
-   ###### •   📚 I'm studied Python and some of the most popular libs for dataScience like Pandas, Numpy, Seaborn and Matplotlib
-   ###### •   📁 I'm have knowledge about SQL using MySql software
-   ###### •   📊 I know how create some dashboards for data analysis using PowerBI
-   ###### •   📑 And currently i'm studying JavaScript for back-end development and thats my future
+♦️ Backend student with knowledge of python focused on data analysis ❗
+###### • 📚 I've studied Python and some of the most popular libs for dataScience like Pandas, Numpy, Seaborn and Matplotlib
+###### • 📁 I have knowledge on SQL using MySql software
+###### • 📊 I know how to create some dashboards for data analysis using PowerBI
+###### • 📚 Currently studying Javascript focused on back-end, by the organization EstartandoDevs
+###### • 📑 And I am currently studying Java on 1000 Devs project by JOHNSON & JOHNSON MEDTECH and DISTRITO.
     
 
 <div>
