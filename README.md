@@ -15,7 +15,7 @@
 ###### • 📁 I have knowledge on SQL using MySql software
 ###### • 📊 I know how to create some dashboards for data analysis using PowerBI
 ###### • 📚 Currently studying Javascript focused on back-end, by the organization EstartandoDevs
-###### • 📑 And I am currently studying Java on 1000 Devs project by JOHNSON & JOHNSON MEDTECH and DISTRITO.
+###### • 📑 And I am currently studying Java on 1000 Devs project by JOHNSON & JOHNSON MEDTECH and DISTRITO powered by mesttra.
     
 
 <div>
