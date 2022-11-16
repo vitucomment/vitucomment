@@ -12,9 +12,10 @@
 
 ♦️ Backend student with knowledge of python focused on data analysis ❗
 ###### • 📚 I've studied Python and some of the most popular libs for dataScience like Pandas, Numpy, Seaborn and Matplotlib
+###### • 📚 Studying and developing myself in java focused on the backend with the spring framework
 ###### • 📁 I have knowledge on SQL using MySql software
 ###### • 📊 I know how to create some dashboards for data analysis using PowerBI
-###### • 📚 Currently studying Javascript focused on back-end, by the organization EstartandoDevs
+###### • 📚 I've studied Javascript focused on back-end, by the organization EstartandoDevs
 ###### • 📑 And I am currently studying Java on 1000 Devs project by JOHNSON & JOHNSON MEDTECH and DISTRITO powered by mesttra.
     
 
