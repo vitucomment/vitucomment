@@ -46,14 +46,12 @@ Type on your prompt: `npx iamvitu`
 - ✅ SQL Advanced Queries – Alura  
 - ✅ NLP in Python (Spell Checker) – Alura  
 
----
+
 
 ## 📈 GitHub Stats  
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devitu-py&theme=radical)  
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devitu-py&theme=radical)  
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devitu-py&theme=radical)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devitu-py&theme=radical)  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitucomment&theme=radical)  
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitucomment&theme=radical) ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitucomment&theme=radical)  
 
 ---
 
