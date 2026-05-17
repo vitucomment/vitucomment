@@ -18,13 +18,3 @@
 ###### • 📚 I've studied Javascript focused on back-end, by the organization EstartandoDevs
 ###### • 📑 And I am currently studying Java on 1000 Devs project by JOHNSON & JOHNSON MEDTECH powered by mesttra.
     
-
-<div>
-  <a href="https://github.com/vitucomment">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitucomment&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitucomment&layout=compact&langs_count=6&theme=blueberry"/>
-</div>
-  
-
-
-![Snake animation](https://github.com/vitucomment/vitucomment/blob/output/github-contribution-grid-snake.svg)
