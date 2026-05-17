@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Victor Almeida  
 
-### 🚀 Data Scientist | Backend Developer | Cloud Enthusiast  
+### 🚀 Data Pipeline Architect | Python Developer | Cloud Enthusiast  
 
 Type on your prompt: `npx iamvitu`
 
@@ -15,13 +15,13 @@ Type on your prompt: `npx iamvitu`
 
 ## 🌟 About Me  
 
-♦️ **Data Scientist** with strong knowledge in backend development.  
-- 📚 Experienced in **Python** and popular data science libraries: *Pandas, Numpy, Seaborn, Matplotlib*.  
-- 📚 Developing skills in **Java** with the **Spring Framework**.  
-- 📁 Knowledge in **SQL** using **MySQL**.  
-- 📊 Able to create dashboards for data analysis using **Power BI**.  
-- 📚 Studied **JavaScript for Back-End** with *EstartandoDevs*.  
-- 📑 Currently studying **Java** in the *1000 Devs Project* by **Johnson & Johnson MedTech** powered by Mesttra.  
+♦️ **Data Pipeline Architect & Python Developer** with expertise in cloud applications and database development.  
+- 📚 Skilled in **Python** for Data Science, including *Pandas, Numpy, Seaborn, Matplotlib*.  
+- 🛠 Strong knowledge in **SQL/MySQL** and advanced query optimization.  
+- ☁️ Experienced in **cloud-native applications** and scalable data pipeline solutions.  
+- 💻 Background in **Java** and **JavaScript for back-end**.  
+- 🎓 Academic background at **UNINASSAU**, with multiple certifications in Python, SQL, Java, and NLP.  
+- 🏢 Currently working at **Johnson & Johnson**, contributing to innovative projects in **data architecture** and **technology**.  
 
 ---
 
@@ -32,7 +32,6 @@ Type on your prompt: `npx iamvitu`
 | 🐍 Python | 🗄️ MySQL | ☁️ AWS / Azure |
 | ☕ Java | 📊 Oracle SQL | 🔧 Docker |
 | ⚡ JavaScript (Node.js) | 🔍 SQL Server | 🌀 Git / GitHub |
-| 📊 Power BI | | |
 
 ---
 
@@ -46,7 +45,7 @@ Type on your prompt: `npx iamvitu`
 - ✅ SQL Advanced Queries – Alura  
 - ✅ NLP in Python (Spell Checker) – Alura  
 
-
+---
 
 ## 📈 GitHub Stats  
 
