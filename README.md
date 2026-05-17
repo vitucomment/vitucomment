@@ -50,8 +50,10 @@ Type on your prompt: `npx iamvitu`
 
 ## 📈 GitHub Stats  
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devitu-py&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devitu-py&layout=compact&theme=radical)  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devitu-py&theme=radical)  
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devitu-py&theme=radical)  
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devitu-py&theme=radical)  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devitu-py&theme=radical)  
 
 ---
 
